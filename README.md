@@ -75,17 +75,17 @@ Example:
   Compared sales performance across different payment types and regions
 
 *Key Questions Answered by the Dashboard
-  Which product categories generate the highest revenue?
-  Which products are sold the most?
-  How do monthly sales trends change over time?
-  Which states contribute the most to total sales?
-  What is the average customer rating?
-  How many orders were delivered late?
-  Which payment methods are most commonly used?
-  Which sellers generate the highest sales?
-  How does delivery performance affect customer ratings?
-  Which product categories perform poorly and need improvement?
+  1) Which product categories generate the highest revenue?
+  2) Which products are sold the most?
+  3) How do monthly sales trends change over time?
+  4) Which states contribute the most to total sales?
+  5) What is the average customer rating?
+  6) How many orders were delivered late?
+  7) Which payment methods are most commonly used?
+  8) Which sellers generate the highest sales?
+  9) How does delivery performance affect customer ratings?
+  10) Which product categories perform poorly and need improvement?
 
-6. Screenshots / Demos
-Show what the dashboard looks like
+7 : SQL Summary
+The project integrates SQL scripts to validate and analyze the e‑commerce dataset. Queries were used to check record counts across tables, ensuring dataset completeness. Revenue was calculated from the payments table to highlight overall business performance. These SQL steps strengthen data integrity and provide actionable insights that complement the dashboards
 
