@@ -12,7 +12,6 @@ The dashboard was built using the following tools and technologies:
 📊 Power BI Desktop – Data visualization and dashboard creation
 🔄 Power Query – Data cleaning and transformation
 🧠 DAX (Data Analysis Expressions) – Measures and calculated columns
-🗄 SQL – Data analysis and business queries
 📁 Excel/CSV Files – Dataset source
 📈 Data Modeling – Relationship building between tables
 
@@ -86,6 +85,5 @@ Example:
   9) How does delivery performance affect customer ratings?
   10) Which product categories perform poorly and need improvement?
 
-7 : SQL Summary
-The project integrates SQL scripts to validate and analyze the e‑commerce dataset. Queries were used to check record counts across tables, ensuring dataset completeness. Revenue was calculated from the payments table to highlight overall business performance. These SQL steps strengthen data integrity and provide actionable insights that complement the dashboards
+
 
